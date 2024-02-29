@@ -1,6 +1,6 @@
-# Projeto Moedelo
+# Projeto Modelo
 
-Uma Web API RESTFul com método para validação de uma senha com base nos parametros pré-definidos
+Uma Web API RESTFul com método para validação de uma senha com base nos parametros pré-definidos.
 
 ## Especificação
 
